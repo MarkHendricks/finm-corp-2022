@@ -16,7 +16,7 @@ et-xmlfile==1.1.0
 executing==0.8.3
 fonttools==4.31.2
 ipykernel==6.9.2
-ipython==8.1.1
+ipython==7.32.0
 ipython-genutils==0.2.0
 ipywidgets==7.7.0
 jedi==0.18.1
